@@ -1,0 +1,12 @@
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\bin\Debug\ŞİRKETOTOMASYONU.exe.config
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\bin\Debug\ŞİRKETOTOMASYONU.exe
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\bin\Debug\ŞİRKETOTOMASYONU.pdb
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.Form1.resources
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.Properties.Resources.resources
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.csproj.GenerateResource.cache
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.exe
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.pdb
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.ÜRÜNLER.resources
+C:\Users\Furkan Gökalp\source\repos\ŞİRKETOTOMASYONU\ŞİRKETOTOMASYONU\obj\Debug\ŞİRKETOTOMASYONU.MUSTERILER.resources

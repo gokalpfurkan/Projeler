@@ -1,0 +1,15 @@
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\bin\Debug\EntitySonKısım.exe.config
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\bin\Debug\EntitySonKısım.exe
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\bin\Debug\EntitySonKısım.pdb
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\bin\Debug\EntityFramework.dll
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\bin\Debug\EntityFramework.xml
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySonKısım.csproj.AssemblyReference.cache
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySonKısım.Form1.resources
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySonKısım.Properties.Resources.resources
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySonKısım.csproj.GenerateResource.cache
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySonKısım.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySo.55FF330F.Up2Date
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySonKısım.exe
+C:\Users\Furkan Gökalp\source\repos\EntitySonKısım\EntitySonKısım\obj\Debug\EntitySonKısım.pdb
