@@ -1,0 +1,23 @@
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\bin\Debug\28,12,2023.exe.config
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\bin\Debug\28,12,2023.exe
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\bin\Debug\28,12,2023.pdb
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\28,12,2023.csproj.AssemblyReference.cache
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\28,12,2023.csproj.SuggestedBindingRedirects.cache
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\_28_12_2023.Form1.resources
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\_28_12_2023.Properties.Resources.resources
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\28,12,2023.csproj.GenerateResource.cache
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\28,12,2023.csproj.CoreCompileInputs.cache
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\28,12,2023.exe
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\28,12,2023.pdb
+D:\Nesne Tabanlı Programlama\28,12,2023\28,12,2023\obj\Debug\_28_12_2023.Form2.resources
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\bin\Debug\28,12,2023.exe.config
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\bin\Debug\28,12,2023.exe
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\bin\Debug\28,12,2023.pdb
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\28,12,2023.csproj.AssemblyReference.cache
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\_28_12_2023.Form1.resources
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\_28_12_2023.Form2.resources
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\_28_12_2023.Properties.Resources.resources
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\28,12,2023.csproj.GenerateResource.cache
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\28,12,2023.csproj.CoreCompileInputs.cache
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\28,12,2023.exe
+E:\Furkan GÖKALP Görsel Programlama 2 Ödev\28,12,2023\obj\Debug\28,12,2023.pdb
